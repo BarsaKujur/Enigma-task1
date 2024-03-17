@@ -2,3 +2,5 @@ Name:Barsa Kujur
 Registration Number:2302080020
 Branch:Information Technology
 Hobbies:watching movies, dancing
+Domain 1:App Development
+Domain 2:Game Development
